@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6pvohorwpYTJYuBXx3UyZETt7aqL8gcYoIRFxAj98GI=",
+  "Source": "HCIBackend",
+  "BasePath": "_content/HCIBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
