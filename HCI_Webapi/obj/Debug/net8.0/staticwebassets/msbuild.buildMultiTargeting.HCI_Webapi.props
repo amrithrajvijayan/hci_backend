@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/HCI_Webapi.props" />
+</Project>

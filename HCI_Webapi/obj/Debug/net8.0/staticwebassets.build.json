@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pd4JG1DKv9RoKA6fcfPgyxDOX76xypTBjmgPLjekOkA=",
+  "Source": "HCI_Webapi",
+  "BasePath": "_content/HCI_Webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

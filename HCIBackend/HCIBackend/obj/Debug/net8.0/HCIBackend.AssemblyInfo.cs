@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HCIBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02aad02e49ad1212c024e797bbe431bda3172aa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87e0b5cc63df76d4f308366f790e3cb6655b8f6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HCIBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HCIBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
